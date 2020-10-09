@@ -1,0 +1,5 @@
+funcionario1 1000 2
+funcionario2 1500 3
+funcionario3 2000 5
+fulano 500 0
+fulano1 3000 4
